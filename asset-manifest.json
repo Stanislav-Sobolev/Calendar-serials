@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Calendar-serials/./static/css/main.65f1bc21.chunk.css",
+    "main.js": "/Calendar-serials/./static/js/main.fb7f6c5f.chunk.js",
+    "main.js.map": "/Calendar-serials/./static/js/main.fb7f6c5f.chunk.js.map",
+    "runtime-main.js": "/Calendar-serials/./static/js/runtime-main.a467e631.js",
+    "runtime-main.js.map": "/Calendar-serials/./static/js/runtime-main.a467e631.js.map",
+    "static/css/2.ebb8a5b7.chunk.css": "/Calendar-serials/./static/css/2.ebb8a5b7.chunk.css",
+    "static/js/2.d43263ad.chunk.js": "/Calendar-serials/./static/js/2.d43263ad.chunk.js",
+    "static/js/2.d43263ad.chunk.js.map": "/Calendar-serials/./static/js/2.d43263ad.chunk.js.map",
+    "index.html": "/Calendar-serials/./index.html",
+    "precache-manifest.f5f315c7cd1b07725f03b24c7bd27319.js": "/Calendar-serials/./precache-manifest.f5f315c7cd1b07725f03b24c7bd27319.js",
+    "service-worker.js": "/Calendar-serials/./service-worker.js",
+    "static/css/2.ebb8a5b7.chunk.css.map": "/Calendar-serials/./static/css/2.ebb8a5b7.chunk.css.map",
+    "static/css/main.65f1bc21.chunk.css.map": "/Calendar-serials/./static/css/main.65f1bc21.chunk.css.map",
+    "static/media/main.css": "/Calendar-serials/./static/media/open-sans-v17-latin_cyrillic-ext_cyrillic-regular.e45f0984.woff2",
+    "static/media/tv.png": "/Calendar-serials/./static/media/tv.9fde5658.png"
+  }
+}
